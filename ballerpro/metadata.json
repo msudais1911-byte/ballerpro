@@ -1,0 +1,6 @@
+{
+  "name": "Vision UI Replicator",
+  "description": "A high-fidelity mobile-first React application designed to replicate user interfaces from image references with pixel-perfect precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
